@@ -2,8 +2,8 @@
 
 Objetivos
 
-+Conocer acerca de las hermanietas computacionales modernas que usan los ingenieros.
++ Conocer acerca de las hermanietas computacionales modernas que usan los ingenieros.
 
-+Adquirir habilidades para manejar estas herramientas.
++ Adquirir habilidades para manejar estas herramientas.
 
-+Conocer el funcionamiento basico de los algoritmos que usan estas herramientas.
++ Conocer el funcionamiento basico de los algoritmos que usan estas herramientas.
